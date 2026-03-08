@@ -82,13 +82,6 @@ function SlideOne() {
             ))}
           </div>
         </div>
-
-        {/* <Link
-          to="/"
-          className="absolute left-6 top-6 z-20 inline-flex items-center rounded-full bg-white/90 px-4 py-2 text-sm font-semibold text-slate-800 shadow-md backdrop-blur transition hover:bg-white"
-        >
-          Back
-        </Link> */}
       </section>
     </main>
   );
